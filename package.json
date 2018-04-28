@@ -1,0 +1,13 @@
+{
+  "name": "react-native-note",
+  "version": "1.0.0",
+  "author": "Wuhan React",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^1.12.1"
+  },
+  "scripts": {
+    "format": "prettier --write '**/*.{js,md}'"
+  }
+}
