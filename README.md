@@ -10,5 +10,4 @@
 * `other` 放其它任何与 React Native 项目相关文章、经验。如：git, npm 等
 
 ## 一起来写吧
-- `git clone https://github.com/WuhanReact/react-native-note.git`
-- `cd react-native-note`
+- [怎么加入来](./others/how-to-join-with-github.md)
